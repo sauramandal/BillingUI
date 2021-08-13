@@ -43,7 +43,7 @@ const defaultStepItems = [
     id: 4,
     name: "Payment",
     title: "Payment Information",
-    icon: "fa fa-money-bill",
+    icon: "fa fa-money",
     visited: false,
     details: {
       card: "",
